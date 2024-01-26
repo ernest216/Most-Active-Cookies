@@ -1,4 +1,4 @@
-Most Active Cookies
+# Most Active Cookies
 
 The file most_active_cookies.py consists of the command line program in your preferred language to process the log file and return the most active cookie for a specific day. The runtime complexity of the search function most_active_cookie() is linear with respect to the number of lines in the log file
 
@@ -7,9 +7,9 @@ The file most_active_cookies_test.py is the tester file of most_active_cookies.p
 
 ## Table of Contents
 
-- [Developers Guide]
-- [Usage]
-- [Testing]
+- [Developers Guide](#developers-guide)
+- [Usage](#usage)
+- [Testing](#testing)
 
 ## Developers Guide
 
