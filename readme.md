@@ -25,13 +25,13 @@ The CLI program takes two arguments:
 
 Example:
 We’d execute the program like this to obtain the most active cookie for 9th Dec 2018.
-$ python3 most_active_cookie.py -f cookie_log.csv -d 2018-12-09
+`$ python3 most_active_cookie.py -f cookie_log.csv -d 2018-12-09`
 
 We define the most active cookie as one seen in the log the most times during a given day,
 so the program will return one or more cookies as below:
 
-Most active cookie(s):
-AtY0laUfhglK3lC7
+`Most active cookie(s):
+AtY0laUfhglK3lC7`
 
 ## Testing 
 
