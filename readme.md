@@ -19,8 +19,8 @@ Put the CSV file in the same directory as the python program files, before runni
 
 The CLI program takes two arguments:
 
--f, The CSV file path
--d, the date argument formatted as YYYY-MM-DD
+`-f`, The CSV file path
+`-d`, the date argument formatted as YYYY-MM-DD
 
 
 Example:
@@ -37,7 +37,7 @@ AtY0laUfhglK3lC7
 
 To run the tests for the `most_active_cookies` program, follow these steps:
 
-1. Make sure you have the necessary dependencies installed.
+1. Make sure you have Python and unit testing extensions installed in your environment.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the `most_active_cookies_test.py` file is located.
 4. Run the command `python3 most_active_cookies_test.py` to execute the test suite.
