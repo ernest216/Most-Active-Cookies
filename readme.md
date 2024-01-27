@@ -19,7 +19,7 @@ Put the CSV file in the same directory as the python program files, before runni
 
 The CLI program takes two arguments:
 
-`-f`, The CSV file path
+`-f`, The CSV file path,
 `-d`, the date argument formatted as YYYY-MM-DD
 
 
